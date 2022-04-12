@@ -1,0 +1,111 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #fafafa;
+    font-family: "Arial";
+}
+.background-bg{
+    margin: 10px auto;
+    padding: 0px;
+    background-color: #f7f7f9;
+    border: solid 1px #e1e1e1;
+}
+.header{
+    margin: 0px;
+    padding: 50px 0 50px 0;
+}
+.login-bg{
+    margin: 0px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: #f2f2f2 1px 2px 1px 2px;
+    border-radius: 10px;
+
+}
+.login-bg label
+{
+    color: #29234e;
+    font-size: 12px;
+    font-weight: normal;
+}
+.login-bg h2{
+    margin: 0px;
+    padding: 0px 0 20px 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: #433988;
+}
+.button{
+    margin: 0px;
+    padding: 10px 20px 10px 20px;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+background: rgb(255,93,161);
+background: linear-gradient(90deg, rgba(69,53,122,1) 0%,  rgba(255,93,161,1) 100%);
+}
+.mt-5{
+    margin-top: 10%;
+    padding: 0px;
+}
+footer h5{
+    margin: 0px;
+    padding: 0px 0 50px 0;
+    text-align: center;
+    color: #ccc;
+}
+
+.navbar-inverse-cli{
+    background-color: #fff;
+    border: none;
+}
+.nav > li > a {
+    position: relative;
+    display: block;
+    padding: 2px 15px;
+      padding-top: 2px;
+      padding-bottom: 2px;
+      font-size: 14px;
+      color: #211572;
+}
+.navbar-brand {
+    float: left;
+    height: auto!important;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.nav > li > a:focus, .nav > li > a:hover {
+    text-decoration: none;
+    color: #ff7d25;
+
+}
+.navbar-toggle .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+    background-color: #211572!important;
+}
+.sea-ico{
+    margin: 7px 0 0 11px;
+    padding: 0px;
+    position: absolute;
+}
+.search{
+    margin: 13px 0 0 0;
+    padding: 0px;
+}
+.left-bg{
+    margin: 0px;
+    padding: 0px;
+    background-color:#fff;
+}
+    
+    .nav > li > a {
+        position: relative;
+        display: block;
+        padding: 19px 11px!important;
+      
+}
